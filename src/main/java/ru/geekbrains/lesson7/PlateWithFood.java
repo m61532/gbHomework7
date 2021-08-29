@@ -1,7 +1,5 @@
 package ru.geekbrains.lesson7;
 
-        import java.util.Objects;
-
 public class PlateWithFood {
 
     public int foodAmount;
